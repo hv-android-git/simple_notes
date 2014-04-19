@@ -1,0 +1,5 @@
+INDEX VERSION 1.126+/home/hvural/android_dev_hv/.metadata/.plugins/org.eclipse.jdt.core
+3350654139.index
+1270315800.index
+3417621568.index
+1403409131.index
